@@ -1,5 +1,5 @@
 title: Nilam Reshim # your name (or website title) here
-logo: "/images/round_222.png?raw=true" # your photo (or logo) here<br><br><br><br>
+logo: <p style="margin-left:2.5em"> "/images/round_222.png?raw=true" </p> # your photo (or logo) here<br><br><br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Experienced Multi-facet IT professional like to solve business problems with technology.
