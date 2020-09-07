@@ -1,5 +1,5 @@
 title: Nilam Reshim # your name (or website title) here
-logo: "/images/round_222.png?raw=true" # your photo (or logo) here
+logo: "/images/round_222.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Experienced Multi-facet IT professional like to solve business problems with technology.
   <br><br>
@@ -8,4 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://in.linkedin.com/in/nilamreshim/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-177412126-1 # your Google Analytics tracking ID here
