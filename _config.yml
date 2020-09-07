@@ -1,10 +1,8 @@
 title: Nilam Reshim # your name (or website title) here
 logo: "/images/profile_logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Nilam 
-  <br><br>
-  Reshim 
-  <br><br>
+Experienced Multi-facet IT professional like to solve business probelem with technolgy.
+<i>"Technology is best when it helps you get business" </i>
   <a href="https://in.linkedin.com/in/nilamreshim">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
